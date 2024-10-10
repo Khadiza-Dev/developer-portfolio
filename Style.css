@@ -61,14 +61,16 @@ color:orange;
 }
 #item-1 {
   border-left:5px solid ;
-  border-image:linear-gradint(orange,red);
+  border-image:linear-gradient(coral,coral);
   border-image-slice: 1;
 }
 #item-2 {
   border-left:5px solid ;
-  border-image:linear-gradient(red,orange)
+  border-image:linear-gradient(blue,hotpink);
   border-image-slice: 1;
 }
+  
+
 .footer-section {
   text-align: center;
 }
