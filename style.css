@@ -66,7 +66,7 @@ body {
     }
     #item-2 {
       border-left:5px solid ;
-      border-image:linear-gradient(blue,hotpink);
+      border-image:linear-gradient(blue,cyan);
       border-image-slice: 1;
     }
     .footer-section {
